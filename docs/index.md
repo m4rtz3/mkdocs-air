@@ -1,79 +1,44 @@
-# [Plataformas, Microsserviços e APIs](#plataformas-microsservicos-e-apis)
+# [AIR: Airline Information Resource](#air)
 
 <!-- ![Insper](https://www.insper.edu.br/wp-content/themes/insper/dist/image/logo.png){ align=right } -->
 
 ???+ info inline end
 
-    Carga Horária: 80
+    4º Semestre
 
-    *Semestre: 5º período*
+    *Raspagem*
 
-## [Ementa](#ementa)
+## [Proposta](#proposta)
 
-Conceitos de Aplicações em Monólíto e Microserviços; Conteinerização; Padrões de Construção de Softwares (Design Patterns); Monitoramento e Rastreabilidade de Aplicações; Segurança (autenticação e autorização); Mensageria; Dados Distribuídos; Orquestração de computação em nuvem, sistemas de gerenciamento, monitoramento e configuração de recursos virtualizados; Integração entre Desenvolvimento e Operação; Utilização de Plataformas em Nuvem para Produção (Cloud Computing); Aspectos de automação de gestão de sistema em cloud – DevOps. Serverless computing – FaaS - function as a service; Utilização da Plataforma como Produto para Negócios: Infraestrutura como Serviço (IaaS), Plataforma como Serviço (PaaS) e Software como Serviço (SaaS). Gestão de níveis de serviço (SLA - Service Level Agreement). Custos de projeto e de operação de sistemas em cloud.
+A **AIR** nasceu de um sonho: tornar a viagem de avião mais acessível e mais fácil para todos. Os fundadores da empresa, todos apaixonados por viagens, perceberam que havia uma lacuna no mercado de viagens aéreas. Embora houvesse muitos sites e aplicativos que ofereciam reservas de voos, a maioria deles não era voltada para o usuário. Eles eram muitas vezes confusos e complicados de usar, e não ofereciam muitas opções para personalizar a busca pelos voos.
+Com isso em mente, a **AIR** se propôs a criar uma plataforma que não só oferecesse reservas de voos, mas também tornasse o processo de busca de voos mais personalizado e fácil de usar. A empresa usaria tecnologia de ponta, incluindo web scrapping e inteligência artificial, para coletar dados sobre voos e analisá-los de maneira eficaz. Isso permitiria que a plataforma oferecesse aos usuários as melhores opções de voos com base em suas preferências e necessidades individuais.
 
 ## [Objetivos](#objetivos)
 
-Ao final da disciplina o aluno será capaz de:
+Antes de explorarmos os objetivos da **AIR**, é importante compreender o propósito por trás dessa plataforma inovadora de reservas de voos. A **AIR**, ou Airline Information Resource, surge como uma resposta aos desafios enfrentados pelos viajantes em um mercado aéreo complexo e em constante movimento. Seu principal objetivo é simplificar e aprimorar a experiência de reserva de voos para todos os tipos de viajantes, oferecendo uma abordagem centrada no usuário aliada a tecnologias avançadas. Agora, vamos examinar mais de perto os objetivos específicos que impulsionam a **AIR**:
 
-1. Tomar decisões a respeito da escolha de estratégias de arquiteturas para o emprego de problemas computacionais;
-2. Implementar e interconectar aplicações computacionais para a construção de plataformas de alto desempenho: escalabilidade por meio do uso de técnicas de computação em nuvem;
-3. Administrar um sistema de gerenciamento de nuvem, provisionando a infraestrutura necessária como um serviço;
-4. Construir, com o auxílio de frameworks, soluções de plataformas completas e integradas de forma profissional;
-5. Arquitetar e implementar linhas de produções de softwares robustos (CI/CD);
-6. Analisar, projetar e especificar uma solução de computação em nuvem mista baseada em hardware, software e redes para atender aos requisitos de determinado pacto de nível de serviço (SLA);
-7. Planejar e analisar o uso de plataformas empresariais como subsídio para criação de novos negócios (PaaS).
+1. **Simplificação do processo de reserva**: A AIR busca simplificar todo o processo de reserva de voos, desde a pesquisa inicial até a finalização da compra. Isso significa oferecer uma interface intuitiva e fácil de usar, permitindo que os usuários naveguem pelas opções de voos de forma rápida e eficiente.
+2. **Personalização das recomendações**: Um dos pilares fundamentais da AIR é a personalização das recomendações de voos. Por meio de tecnologias avançadas, como análise de dados e inteligência artificial, a plataforma é capaz de entender as preferências individuais de cada usuário e oferecer recomendações precisas que atendam às suas necessidades específicas.
+3. **Melhoria da experiência do usuário**: Além da reserva de voos, a AIR busca proporcionar uma experiência completa e satisfatória aos usuários. Isso inclui a oferta de recursos adicionais, como alertas de preços, informações sobre destinos e companhias aéreas, e a possibilidade de salvar pesquisas para acesso posterior.
+4. **Acessibilidade**: A AIR está empenhada em tornar a reserva de voos acessível a todos os tipos de viajantes, independentemente de seu orçamento ou preferências de viagem. Isso significa garantir que todos os usuários tenham acesso a opções de voos adequadas e competitivas, promovendo assim uma experiência de reserva de voos mais equitativa e acessível para todos.
 
-## [Conteúdo Programático](#conteudo-programatico)
+## [Missão](#missao)
 
-1. Conceitos de Arquitetura e Microsserviços;
-2. Microsserviços com Interface API - RESTful;
-3. Introdução a Contêineres;
-4. Introdução e Implementação de Design Patterns;
-5. Apresentação de Design Patterns mais Complexos: Segurança, Mensageria, Cache, etc;
-6. Fundamentos de Computação em Nuvem.
-7. Orquestração, Implementação e Monitoramento de Ambientes Virtualizados e Distribuídos;
-8. Infraestrutura como um Serviço.
-9. Redes Definidas por Software;
-10. Software como um Serviço;
-11. Gestão de Níveis de Serviço.
+É crucial compreender profundamente o significado e a importância desse aspecto para a identidade e o propósito da empresa. A missão não é apenas uma declaração de intenções; é o cerne que orienta todas as atividades, decisões e interações da organização. Na essência da missão da **AIR** reside a visão de criar impacto positivo na experiência de viagem dos usuários e na indústria de viagens como um todo. É um compromisso enraizado em valores que refletem a dedicação da empresa em atender às necessidades dos viajantes, promovendo valores como conveniência, acessibilidade, confiança, segurança, sustentabilidade, diversidade e inclusão. A missão serve como um farol, iluminando o caminho rumo a um objetivo maior: proporcionar uma experiência de viagem excepcional que não apenas atenda, mas também exceda as expectativas dos viajantes, enquanto contribui para um mundo mais conectado, sustentável e inclusivo.
 
-## [Bibliografia Básica](#bibliografia-basica)
+1. Facilitar Conexões
+2. Enriquecer Experiências
+3. Promover Conveniência e Acessibilidade
+4. Inspirar Confiança e Segurança
+5. Fomentar a Sustentabilidade
+6. Valorizar a Diversidade e Inclusão
 
-Livros:
+## [Valores](#Valores)
 
-1. ROMAN, Ed; AMBLER, Scott W.; JEWELL, Tyler. Dominando Enterprise Javabeans. Porto Alegre: Bookman, 2004. E-book. ISBN 9788577804061. Disponível em: [https://integrada.minhabiblioteca.com.br/#/books/9788577804061](https://integrada.minhabiblioteca.com.br/#/books/9788577804061). Acesso em: 30 de maio de 2023.
+A AIR não é apenas uma plataforma de reserva de voos; é uma promessa de excelência, inovação e satisfação do cliente. Esses valores são a bússola que orienta todas as iniciativas da empresa, refletindo seu compromisso inabalável com uma experiência de viagem superior. Vamos agora nos aprofundar nos valores que moldam a identidade e as práticas da AIR:
 
-2. ALVES, William Pereira. Java para Web - Desenvolvimento de Aplicações. São Paulo: Érica, 2015. E-book. ISBN 9788536519357. Disponível em: [https://integrada.minhabiblioteca.com.br/#/books/9788536519357](https://integrada.minhabiblioteca.com.br/#/books/9788536519357). Acesso em: 30 de maio de 2023.
-
-3. FREEMAN, Emily. [DevOps Para Leigos. Rio de Janeiro: Editora Alta Books, 2021](https://www.amazon.com.br/DevOps-para-leigos-primeiros-sucesso/dp/855081573X/). E-book. ISBN 9788550816661. Disponível em: [https://integrada.minhabiblioteca.com.br/#/books/9788550816661](https://integrada.minhabiblioteca.com.br/#/books/9788550816661). Acesso em: 30 de maio de 2023.
-
-## [Bibliografia Complementar](#bibliografia-complementar)
-
-Livros:
-
-1. XU, A., [System Design Interview - An insider&#39;s guide](https://www.amazon.com.br/System-Design-Interview-Insiders-English-ebook/dp/B08B3FWYBX/), 1ª ed., Independently Published, 2020.
-
-2. MARTIN, R. C., [Arquitetura Limpa: o guia do artesão para estrutura e design de software](https://www.amazon.com.br/Arquitetura-Limpa-artes%C3%A3o-estrutura-software-ebook/dp/B085PP6Y8P/), 1ª ed., Alta Books, 2018.
-
-3. PARKER, G. G.; VAN ALSTYNE, M. W.; CHOUDARY, S. P., [Plataforma: a revolução da estratégia](https://www.amazon.com.br/Plataforma-Revolu%C3%A7%C3%A3o-Estrat%C3%A9gia-Geoffrey-Parker/dp/8550806137/), 1ª ed., Alta Books, 2018.
-
-4. SEHGAL, N. K.; BHATT, P. C. P.; ACKEN J. M., [Cloud Computing with Security and Scalability.: Concepts and Practices](https://www.amazon.com.br/Cloud-Computing-Security-Scalability-Practices/dp/3031072448/), 3ª ed., Springer, 2023.
-
-5. KRIEF, M., [Learning DevOps: A comprehensive guide to accelerating DevOps culture adoption with Terraform, Azure DevOps, Kubernetes, and Jenkins](https://www.amazon.com/Learning-DevOps-comprehensive-accelerating-Kubernetes/dp/1801818967/), 2ª ed., Packt Publishing, 2022.
-
-6. GAMMA, E.; HELM, R.; JOHNSON, R., VLISSIDES, J., [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com.br/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/), 1ª ed., Addison-Wesley Professional, 1994.
-
-7. SANTANA, E. F. Z., [Back-end Java: Microsserviços, Spring Boot e Kubernetes](https://www.amazon.com.br/Back-end-Java-Microsservi%C3%A7os-Spring-Kubernetes-ebook/dp/B08ZWQ6YMB/), Casa do Código, 2021. [Material](https://github.com/ezambomsantana/java-back-end-livro).
-
-8. SANTANA, E. F. Z., [Apache Kafka e Spring Boot: Comunicação assíncrona entre microsserviços](https://www.amazon.com.br/Apache-Kafka-Spring-Boot-microsservi%C3%A7os-ebook/dp/B09RPSBTJX/), Casa do Código, 2022. [Material](https://github.com/ezambomsantana/livro-kafka).
-
-Artigos:
-
-- XU, A. et al.. ByteByteGo - System Design 101. Disponível em: [https://github.com/ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101). Acesso em: 19 dezembro 2023.
-
-- Spring. Spring Cloud. Disponível em: [https://spring.io/projects/spring-cloud](https://spring.io/projects/spring-cloud). Acesso em: 19 dezembro 2023.
-
-- CHOI, K., Software Engineering Blogs. Disponível em: [https://github.com/kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs). Acesso em: 20 dezembro 2023.
-
-- Ghemawat, S. et al.. Towards Modern Development of Cloud Applications.  Proceedings of the 19th Workshop on Hot Topics in Operating Systems, 2023 - p. 110-117. Association for Computing Machinery, Providence, RI, USA. Disponível em: [doi:10.1145/3593856.3595909](https://doi.org/10.1145/3593856.3595909). Acesso em: 05 fevereiro de 2024.
+1. **Excelência:** Na AIR, buscamos constantemente a excelência em tudo o que fazemos. Desde a coleta de dados até o atendimento ao cliente, cada aspecto de nossa plataforma é projetado para superar as expectativas e fornecer uma experiência de reserva de voos excepcional.
+2. **Inovação**: Estamos comprometidos em impulsionar a inovação no setor de viagens aéreas. Utilizamos tecnologias de ponta e adotamos uma mentalidade de experimentação constante para encontrar maneiras novas e melhores de atender às necessidades de nossos clientes.
+3. **Confiança**: A confiança é a base de todos os relacionamentos na AIR. Trabalhamos com transparência, integridade e responsabilidade para garantir que nossos clientes possam confiar em nós para fornecer informações precisas e serviços confiáveis.
+4. **Personalização**: Reconhecemos que cada cliente é único, e é por isso que nos esforçamos para oferecer uma experiência verdadeiramente personalizada. Desde recomendações de voos até suporte ao cliente, adaptamos nossos serviços para atender às necessidades individuais de cada viajante.
+5. **Acessibilidade**: Acreditamos que viajar deve ser acessível a todos. Por isso, estamos empenhados em oferecer uma ampla gama de opções de voos e preços competitivos para garantir que todos os viajantes possam encontrar e reservar voos que atendam às suas necessidades e orçamento.

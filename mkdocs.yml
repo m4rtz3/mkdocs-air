@@ -1,5 +1,5 @@
 site_name: AIR
-site_author: Sandmann, H.
+site_author: M. Menezes
 site_url: https://jwdarc.github.io/AIR
 
 theme:
@@ -27,6 +27,26 @@ theme:
       bug: fontawesome/solid/robot
       example: fontawesome/solid/flask
       quote: fontawesome/solid/quote-left
+    logo:
+      fontawesome/solid/plane-up
+
+  palette:
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      primary: black
+      accent: darkblue
+      toggle: 
+        icon: material/weather-night
+        name: Switch to light mode
+
+    # Pallete toggle for ligth mode
+    - scheme: default
+      primary: white
+      accent: darkblue
+      toggle: 
+        icon: material/weather-sunny
+        name: Switch to dark mode
 
 markdown_extensions:
   - admonition
@@ -74,23 +94,10 @@ extra_javascript:
 
 nav:
   - Home: index.md
-  - Versions:
-    - 2024.1: ./versions/2024.1.md
-  - Handout:
-    - Microservices:
-      - Roadmap: ./handout/microservices/roadmap.md
-      - Account: ./handout/microservices/account.md
-      - Auth: ./handout/microservices/auth.md
-      - Discovery: ./handout/microservices/discovery.md
-      - Gateway: ./handout/microservices/gateway.md
-    - DevOps:
-      - Observability: ./handout/devops/observability.md
-    #   - Roadmap: ./handout/devops-roadmap.md
-      - Jenkins: ./handout/devops/jenkins.md
-    #   - Docker: ./handout/devops-docker.md
-      - Kubernetes: ./handout/devops/kubernetes.md
+  - Iniciando: ./iniciando/iniciando.md
+  - Diagramas: ./diagramas/diagramas.md
   - API:
-    - Spring Boot Cloud: ./api/spring-boot-cloud.md
+    - Google Flights: ./api/google-flights.md
     - Testing: ./api/testing.md
     - Documentation: ./api/documentation.md
   - Platform:
@@ -131,15 +138,12 @@ nav:
     - Release: ./devops/release.md
     # - Nexus: nexus.md
     # - SonarQube: sonarqube.md
-    - Kubernetes: ./devops/kubernetes.md
   - Cloud Computing:
     - AWS: ./cloud/aws.md
     - GCP: ./cloud/gcp.md
     - Azure: ./cloud/azure.md
     - GitActions: ./cloud/gitactions.md
     - Terraform: ./cloud/terraform.md
-  - Business:
-    - Concepts: ./business/concepts.md
   - Appendix:
     - REST vs GraphQL: ./appendix/rest-vs-graphql.md
     - Versioning REST APIs: ./appendix/versioning-rest-apis.md
