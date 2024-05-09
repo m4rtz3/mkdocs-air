@@ -98,7 +98,6 @@ nav:
   - Diagramas: ./diagramas/diagramas.md
   - API:
     - Google Flights: ./api/google-flights.md
-    - Testing: ./api/testing.md
     - Documentation: ./api/documentation.md
   - Platform:
     - Concepts: ./platform/concepts.md
@@ -140,15 +139,4 @@ nav:
     # - SonarQube: sonarqube.md
   - Cloud Computing:
     - AWS: ./cloud/aws.md
-    - GCP: ./cloud/gcp.md
-    - Azure: ./cloud/azure.md
-    - GitActions: ./cloud/gitactions.md
-    - Terraform: ./cloud/terraform.md
-  - Appendix:
-    - REST vs GraphQL: ./appendix/rest-vs-graphql.md
-    - Versioning REST APIs: ./appendix/versioning-rest-apis.md
-    - TLS for microservices: ./appendix/tls-for-microservices.md
-    - RSA Algorithm: ./appendix/rsa.md
-    - Oh My Zsh: ./appendix/ohmyzsh.md
-    - Others: ./appendix/others.md
-  - Disclaimer: ./disclaimer.md
+  - Sobre nós: ./sobrenos.md

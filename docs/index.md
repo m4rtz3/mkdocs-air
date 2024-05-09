@@ -8,6 +8,14 @@
 
     *Raspagem*
 
+## [Visão Geral](#visao-geral)
+
+A AIR, abreviação para Airline Information Resource (Recurso de informações de companhias aéreas), é muito mais do que apenas mais uma plataforma de reservas de voos. Fundada com a visão de simplificar e aprimorar o planejamento de viagens aéreas para todos os tipos de viajantes, a AIR representa uma abordagem inovadora para a reserva de voos, prezando pela experiência do usuário.
+
+1. **Transformação da Experiência de Reserva de Voos**: O projeto da AIR está revolucionando a forma como as pessoas reservam voos, oferecendo uma plataforma centrada no usuário e focada na personalização. Ao utilizar tecnologias avançadas, como web scraping e inteligência artificial, estamos proporcionando aos usuários uma experiência de reserva de voos mais intuitiva e eficiente.
+2. **Acessibilidade e Personalização**: A AIR está comprometida em tornar a reserva de voos acessível a todos os viajantes, independentemente de seu orçamento ou preferências de viagem. Ao oferecer recomendações de voos altamente personalizadas e uma ampla gama de recursos exclusivos, estamos tornando o processo de reserva de voos mais conveniente e satisfatório para todos os usuários.
+3. **Inovação e Qualidade de Serviço**: Nossa plataforma se destaca pela inovação e excelência em tudo o que fazemos. Com uma equipe dedicada e uma paixão por viagens, estamos constantemente buscando formas de melhorar e aprimorar a experiência do usuário, oferecendo um serviço de alta qualidade e mantendo os mais altos padrões de conduta em todas as nossas operações.
+
 ## [Proposta](#proposta)
 
 A **AIR** nasceu de um sonho: tornar a viagem de avião mais acessível e mais fácil para todos. Os fundadores da empresa, todos apaixonados por viagens, perceberam que havia uma lacuna no mercado de viagens aéreas. Embora houvesse muitos sites e aplicativos que ofereciam reservas de voos, a maioria deles não era voltada para o usuário. Eles eram muitas vezes confusos e complicados de usar, e não ofereciam muitas opções para personalizar a busca pelos voos.
