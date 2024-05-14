@@ -99,44 +99,14 @@ nav:
   - API:
     - Google Flights: ./api/google-flights.md
     - Documentation: ./api/documentation.md
-  - Platform:
-    - Concepts: ./platform/concepts.md
-    - Microservices: ./platform/microservices.md
-    - Discovery: ./platform/discovery.md
-    - Gateway: ./platform/gateway.md
-    - Config: ./platform/config.md
-    - Load Balancing: ./platform/load-balancing.md
-    - Circuit Breaker: ./platform/circuit-breaker.md
-    - Security:
-      - Concepts: ./platform/security/concepts.md
-      - JWT: ./platform/security/jwt.md
-      - OAuth2: ./platform/security/oauth2.md
-      # - Auth Service: ./platform/security/auth-service.md
-      # - OpenID: openid.md
-      # - SSO: sso.md
-    - Communication: ./platform/communcation.md
-    - Observability:
-      - Monitoring: ./platform/observability/monitoring.md
-      - Logging: ./platform/observability/logging.md
-      - Tracing: ./platform/observability/tracing.md
-    - Messaging: 
-      - Concepts: ./platform/messaging/concepts.md
-      - Kafka: ./platform/messaging/kafka.md
-      - RabbitMQ: ./platform/messaging/rabbitmq.md
-    - Database:
-      - Flyway: ./platform/database/flyway.md
-      - Caching: ./platform/database/caching.md
-      # - MongoDB: mongodb.md
-      # - Elasticsearch: elasticsearch.md
-    - Payment: ./platform/payment.md
+  - Plataforma:
+    - Conceito: ./plataforma/conceito.md
+    - Busca: ./plataforma/busca.md
+    - Microsserviço: ./plataforma/microservico.md
   - DevOps:
-    - Concepts: ./devops/concepts.md
-    - Version Control: ./devops/version-control-system.md
+    - Git: ./devops/git.md
     - Docker: ./devops/docker.md
-    - Packaging: ./devops/packaging.md
-    - Release: ./devops/release.md
-    # - Nexus: nexus.md
-    # - SonarQube: sonarqube.md
+    - Maven: ./devops/maven.md
   - Cloud Computing:
     - AWS: ./cloud/aws.md
   - Sobre nós: ./sobrenos.md

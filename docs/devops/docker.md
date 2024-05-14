@@ -1,9 +1,5 @@
 
-How to avoid the classical..
-
-![It Works on My Machine](../assets/images/itworksonmymachine.png){ width="400" }
-
-?
+How to avoid the classical..?
 
 The answer is: **CONTAINERIZATION**.
 

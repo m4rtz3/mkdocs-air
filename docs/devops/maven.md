@@ -1,5 +1,3 @@
-## Maven
-
 Maven uses an XML file to describe the software project being built, its dependencies on other external modules and components, the build order, directories, and required plugins. It comes with pre-defined targets for performing certain well-defined tasks such as compilation of code and its packaging.
 
 Key Features:

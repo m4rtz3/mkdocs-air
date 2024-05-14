@@ -1,5 +1,3 @@
-## Git
-
 Git is a distributed version control system designed to handle everything from small to very large projects with speed and efficiency. It was created by Linus Torvalds in 2005 for development of the Linux kernel.
 
 Key features of Git include:

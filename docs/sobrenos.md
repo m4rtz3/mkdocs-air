@@ -2,11 +2,12 @@
 
 | Name | |
 |-|-|
-| Humberto Sandmann | [:simple-github:](https://github.com/hsandmann){:target="_blank"} [:simple-linkedin:](https://www.linkedin.com/in/hsandmann/){:target="_blank"} [:material-web:](https://hsandmann.github.io/){:target="_blank"} | 
-| Fabio Roberto de Miranda | [:simple-github:](https://github.com/mirwox){:target="_blank"} [:simple-linkedin:](https://www.linkedin.com/in/fabiodemiranda/){:target="_blank"} |
-| Raul Ikeda | [:simple-github:](https://github.com/raulikeda){:target="_blank"} [:simple-linkedin:](https://www.linkedin.com/in/raul-ikeda-2a9ab3186/){:target="_blank"} |
-| Maciel Calebe Vidal | [:simple-github:](https://github.com/macielcalebe){:target="_blank"} [:simple-linkedin:](https://www.linkedin.com/in/macielvidal/){:target="_blank"} |
-| Eduardo Felipe Zambom Santana | [:simple-github:](https://github.com/ezambomsantana){:target="_blank"} |
+| Eshley Maria Silva | [:simple-github:](https://github.com/Eshinha){:target="_blank"} [:simple-linkedin:](https://www.linkedin.com/in/eshley-maria-silva-441692265/){:target="_blank"} | 
+| Felipe Lira | [:simple-github:](https://github.com/Felpslira){:target="_blank"} [:simple-linkedin:](https://www.linkedin.com/in/felipe-lira-286704265/){:target="_blank"} |
+| Felipe Murakami | [:simple-github:](https://github.com/Murakami1410){:target="_blank"} [:simple-linkedin:](https://www.linkedin.com/in/felipe-murakami-979749286/){:target="_blank"} |
+| Giovanna S. Gomes | [:simple-github:](https://github.com/m4rtz3){:target="_blank"} [:simple-linkedin:](https://www.linkedin.com/in/giovanna-souza-gomes-594b0625a/){:target="_blank"} |
+| João Pedro Mascena | [:simple-github:](https://github.com/mascenaa){:target="_blank"} [:simple-linkedin:](https://www.linkedin.com/in/mascenaa/){:target="_blank"} |
+| Pietro Andrade | [:simple-github:](https://github.com/Pepegna){:target="_blank"} [:simple-linkedin:](https://www.linkedin.com/in/pietro-andrade-4053b7265/){:target="_blank"} |
 
 ## Source
 
