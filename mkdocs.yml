@@ -1,6 +1,6 @@
 site_name: AIR
 site_author: M. Menezes
-site_url: https://jwdarc.github.io/AIR
+site_url: https://m4rtz3.github.io/mkdocs-air
 
 theme:
   name: material
@@ -13,6 +13,7 @@ theme:
     - navigation.instant.progress
     - navigation.path
     - navigation.tracking
+  favicon: assets/images/favicon.png
   icon:
     admonition:
       note: fontawesome/solid/note-sticky
