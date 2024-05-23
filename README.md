@@ -1,2 +1,2 @@
 # mkdocs-air
-mkdocs/air
+mkdocs-air
