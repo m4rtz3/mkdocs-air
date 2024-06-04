@@ -1,6 +1,6 @@
 site_name: AIR
 site_author: M. Menezes
-site_url: https://m4rtz3.github.io/mkdocs-air
+site_url: https://m4rtz3.github.io/mkdocs-air/
 
 theme:
   name: material
@@ -99,7 +99,6 @@ nav:
   - Diagramas: ./diagramas/diagramas.md
   - API:
     - Google Flights: ./api/google-flights.md
-    - Documentation: ./api/documentation.md
   - Plataforma:
     - Conceito: ./plataforma/conceito.md
     - Busca: ./plataforma/busca.md
